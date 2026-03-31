@@ -1,4 +1,4 @@
-# Digital Literacy & Cybersecurity Portfolio
+# Digital Literacy 
 
 **Name:** Shourya Dengre  
 **Registration Number:** 25BAI11230  
@@ -18,7 +18,7 @@ This repository contains all the tasks, case studies, and reports completed for 
 
 ---
 
-## 📝 Project Reports
+## 📝 Project Report
 
 ### Task 1: Digital Literacy Infographic
 For this task, I designed an infographic using Canva, a free design tool. My design, titled "Digital Literacy Unlocked," covers three essential digital age topics. First, it defines digital literacy as the ability to find, evaluate, create, and communicate information responsibly, noting it is much more than just using a smartphone. Second, the visual outlines safe internet practices. It advises users to lock down accounts with strong passwords and Two-Factor Authentication (2FA). It also warns users to spot phishing scams by avoiding suspicious links and reminds viewers to be mindful of their digital footprint. Finally, it details proper email etiquette. Tips include keeping subject lines clear, using professional greetings, and proofreading before sending. One thing I found challenging was condensing these critical concepts into short, impactful bullet points. Balancing visual elements with necessary text without making the slide look cluttered was a highly interesting design exercise.
